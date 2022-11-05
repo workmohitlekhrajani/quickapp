@@ -1,0 +1,44 @@
+.heading{
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-left: 38%;
+    margin-top: 10px;
+    font-weight: 900 !important;
+}
+.features-01{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.features-02{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.insideCard{
+    padding: 10px;
+}
+.icons{
+    padding: 5px !important;
+    width: 50px;
+    height: 50px;
+    margin: 0%;
+    fill: #f21b1b;
+}
+p{
+    word-wrap: break-word;  
+}
+.cards{
+    padding: 5px;
+}
+.br-img {
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+    .dash-b img  {
+      display: none;
+    }
+  }
