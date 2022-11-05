@@ -1,1 +1,0 @@
-export {default as pins } from "./pins.png"
